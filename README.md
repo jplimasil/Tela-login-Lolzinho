@@ -1,7 +1,7 @@
 <h2 align="center">Tela login Lol</h2>
 
 <img src="/images/Captura de Tela (20).png" alt="LoginScreen"/>
-<p align="center"> Clique <a href="https://jplimasil.github.io/WebPiano/" target="_blank">aqui</a> para ver o projeto.
+<p align="center"> Clique <a href="https://jplimasil.github.io/Tela-login-Lolzinho/" target="_blank">aqui</a> para ver o projeto.
   
  ## Usado
 <div style=<br>
